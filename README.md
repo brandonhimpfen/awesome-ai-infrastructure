@@ -9,6 +9,7 @@
 - [Distributed Training](#distributed-training)
 - [Model Serving and Deployment](#model-serving-and-deployment)
 - [MLOps and Automation](#mlops-and-automation)
+- [AI Agent Platforms](#ai-agent-platforms)
 - [Data Management](#data-management)
 - [Optimization Tools](#optimization-tools)
 - [Infrastructure as Code](#infrastructure-as-code)
@@ -44,6 +45,10 @@
 - [ZenML](https://zenml.io/) - An extensible MLOps framework for creating portable, production-ready machine learning pipelines.
 - [Airflow](https://airflow.apache.org/) - A platform for orchestrating complex workflows, commonly used in machine learning pipelines.
 - [Metaflow](https://metaflow.org/) - A human-centric framework for building and managing real-life data science projects, developed by Netflix.
+
+## AI Agent Platforms
+
+- [Agentfield](https://github.com/Agent-Field/agentfield) - An open source control plane for deploying AI agents as distributed microservices, with built-in service discovery, durable workflows, and observability.
 
 ## Data Management
 
