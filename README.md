@@ -18,6 +18,7 @@
 - [Optimization Tools](#optimization-tools)
 - [Infrastructure as Code](#infrastructure-as-code)
 - [Cloud Platforms](#cloud-platforms)
+- [Agent Networking](#agent-networking)
 - [Learning Resources](#learning-resources)
 - [Books](#books)
 - [Community](#community)
@@ -81,6 +82,10 @@
 - [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) - A cloud-based platform for training, deploying, and managing machine learning models.
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - A suite of tools for data science, machine learning, and AI model development.
 - [Paperspace Gradient](https://gradient.paperspace.com/) - A cloud platform for developing, training, and deploying machine learning models.
+
+## Agent Networking
+
+- [Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol) - An overlay network stack that gives AI agents virtual addresses, encrypted UDP tunnels, NAT traversal, and mutual trust. Zero dependencies, written in Go.
 
 ## Learning Resources
 
