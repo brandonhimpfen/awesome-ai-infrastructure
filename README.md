@@ -89,6 +89,7 @@
 - [AWS SageMaker Workshops](https://sagemaker-examples.readthedocs.io/en/latest/) - Example projects and tutorials for using AWS SageMaker.
 - [Kubeflow Documentation](https://www.kubeflow.org/docs/) - Official documentation and guides for using Kubeflow.
 - [PyTorch Distributed Training Guide](https://pytorch.org/tutorials/intermediate/ddp_tutorial.html) - A tutorial on distributed training with PyTorch.
+- [WFGY 16 Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - A failure-mode guide for LLM and RAG debugging, with 16 common patterns and practical checks.
 
 ## Books
 
