@@ -49,6 +49,7 @@
 - [ZenML](https://zenml.io/) - An extensible MLOps framework for creating portable, production-ready machine learning pipelines.
 - [Airflow](https://airflow.apache.org/) - A platform for orchestrating complex workflows, commonly used in machine learning pipelines.
 - [Metaflow](https://metaflow.org/) - A human-centric framework for building and managing real-life data science projects, developed by Netflix.
+- [Prefactor](https://prefactor.tech/) - An AI agent runtime control plane providing runtime visibility, governance, and observability for AI agents in production.
 
 ## Data Management
 
