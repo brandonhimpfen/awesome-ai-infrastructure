@@ -65,6 +65,8 @@
 - [Intel OpenVINO](https://docs.openvino.ai/latest/index.html) - A toolkit for optimizing and deploying AI inference on Intel hardware.
 - [OctoML](https://octoml.ai/) - An AI model optimization platform for efficient deployment on edge and cloud.
 - [Quantization Aware Training (QAT)](https://www.tensorflow.org/model_optimization) - Tools for optimizing model performance through quantization.
+- [toprank](https://github.com/nowork-studio/toprank) - An open-source Claude Code plugin providing SEO and Google Ads skills, including meta tag optimization, schema markup generation, and keyword bid adjustments.
+
 
 ## Infrastructure as Code
 
