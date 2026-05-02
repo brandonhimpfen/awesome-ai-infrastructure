@@ -1,0 +1,47 @@
+name: Add a resource
+description: Suggest a new link to include in this Awesome List.
+title: "Add: <resource name>"
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Resource name
+      placeholder: "Example Tool / Guide / Site"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: "https://example.com"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Short description
+      description: One sentence describing what it is and why it belongs here.
+      placeholder: "A curated directory of…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: placement
+    attributes:
+      label: Where should it go?
+      description: Section name + (optional) suggested ordering.
+      placeholder: "Section: Tools → Validation"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I confirmed the link loads in a browser.
+          required: true
+        - label: I confirmed this isn’t a duplicate of an existing entry.
+          required: true

@@ -1,0 +1,49 @@
+name: Repo Health (Generic)
+
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: read
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Baseline hygiene checks
+        run: |
+          set -euo pipefail
+          warn() { echo "::warning::$*"; }
+
+          if [ ! -f "README.md" ] && [ ! -f "readme.md" ]; then
+            warn "Missing README.md"
+          fi
+
+          if [ ! -f "LICENSE" ] && [ ! -f "LICENSE.md" ]; then
+            warn "Missing LICENSE (recommended)"
+          fi
+
+          if [ ! -d ".github" ]; then
+            warn "Missing .github/ (recommended)"
+          fi
+
+          python3 - <<'PY'
+          import pathlib
+          bad = []
+          for p in pathlib.Path(".").rglob("*.md"):
+            if ".git" in p.parts:
+              continue
+            b = p.read_bytes() if p.exists() else b""
+            if b and not b.endswith(b"\n"):
+              bad.append(str(p))
+          if bad:
+            print("::warning::Markdown files missing trailing newline:")
+            for f in bad[:50]:
+              print("::warning:: - " + f)
+          PY

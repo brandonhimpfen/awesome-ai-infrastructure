@@ -1,0 +1,35 @@
+name: Report a broken link
+description: Report a dead or moved URL in this Awesome List.
+title: "Broken link: <resource name>"
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Which entry is broken?
+      placeholder: "Resource name (as listed)"
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Broken URL
+      placeholder: "https://example.com/broken"
+    validations:
+      required: true
+
+  - type: input
+    id: replacement
+    attributes:
+      label: Replacement URL (if you found one)
+      placeholder: "https://example.com/new"
+    validations:
+      required: false
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      placeholder: "Any context (redirects, 404, access restrictions, etc.)"
+    validations:
+      required: false

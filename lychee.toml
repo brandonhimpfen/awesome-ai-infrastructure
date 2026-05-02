@@ -1,0 +1,12 @@
+# lychee.toml — configuration for automated link checking
+# Keep this conservative; add excludes only when necessary.
+
+max_concurrency = 8
+timeout = 20
+accept = [200, 206, 429, 403]
+exclude_mail = true
+
+# If specific domains are flaky or block automated checks, add them here:
+# exclude = [
+#   "https://example.com/flaky"
+# ]
