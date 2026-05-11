@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this curated list, please cite it using the metadata below."
+title: "Awesome AI Infrastructure"
+abstract: "A curated list of tools, platforms, frameworks, systems, and resources related to AI infrastructure, including model serving, inference, orchestration, distributed systems, observability, storage, hardware acceleration, and scalable machine learning operations."
+authors:
+  - family-names: "Himpfen"
+    given-names: "Brandon"
+license: "CC0-1.0"
+repository-code: "https://github.com/brandonhimpfen/awesome-ai-infrastructure"
+keywords:
+  - AI infrastructure
+  - artificial intelligence
+  - machine learning infrastructure
+  - MLOps
+  - LLMOps
+  - model serving
+  - inference systems
+  - distributed systems
+  - GPU computing
+  - vector databases
+  - observability
+  - awesome list
