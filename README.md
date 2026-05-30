@@ -38,6 +38,7 @@
 - [TorchServe](https://pytorch.org/serve/) - A model serving framework for PyTorch, providing fast and efficient model deployment.
 - [NVIDIA Triton Inference Server](https://developer.nvidia.com/nvidia-triton-inference-server) - A scalable model serving platform supporting multiple frameworks.
 - [ONNX Runtime](https://onnxruntime.ai/) - A cross-platform, high-performance scoring engine for serving ONNX models.
+- [Inference Labs](https://inference-labs.com) - Vendor-neutral LLM serving router and evaluation layer across OpenAI/Azure, Anthropic, Google, and AWS Bedrock with policy-based model selection and cost-aware controls.
 - [Seldon Core](https://www.seldon.io/tech/products/core/) - An open-source platform for deploying and monitoring machine learning models on Kubernetes.
 - [KFServing (KServe)](https://kserve.github.io/website/) - A Kubernetes-based model serving solution as part of the Kubeflow project.
 
