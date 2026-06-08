@@ -40,6 +40,7 @@
 - [ONNX Runtime](https://onnxruntime.ai/) - A cross-platform, high-performance scoring engine for serving ONNX models.
 - [Seldon Core](https://www.seldon.io/tech/products/core/) - An open-source platform for deploying and monitoring machine learning models on Kubernetes.
 - [KFServing (KServe)](https://kserve.github.io/website/) - A Kubernetes-based model serving solution as part of the Kubeflow project.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for agentic AI workloads. Verify wallet identity of AI agents before x402 micropayments in multi-agent serving pipelines. Free MCP endpoint: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ## MLOps and Automation
 
