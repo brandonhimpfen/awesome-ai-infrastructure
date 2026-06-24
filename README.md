@@ -73,6 +73,7 @@
 - [Ansible](https://www.ansible.com/) - An open-source automation tool for provisioning and managing infrastructure.
 - [AWS CloudFormation](https://aws.amazon.com/cloudformation/) - A service for automating AWS resource deployment and management.
 - [Google Deployment Manager](https://cloud.google.com/deployment-manager) - An infrastructure management tool for Google Cloud Platform.
+- [A3M Router](https://github.com/Das-rebel/a3m-router) - Open-source LLM routing proxy with parallel multi-LLM execution. RouterArena #1 accuracy (96.77%), $0.077/1K cost, 47+ provider support.
 
 ## Cloud Platforms
 
