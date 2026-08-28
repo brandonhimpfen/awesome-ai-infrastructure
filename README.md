@@ -75,6 +75,7 @@
 - [Google Deployment Manager](https://cloud.google.com/deployment-manager) - An infrastructure management tool for Google Cloud Platform.
 
 ## Cloud Platforms
+- [GPUVista](https://gpuvista.com) - Live price & availability board across 16+ cloud GPU providers (India + Global); 11 GPU models; weekly refresh; dual INR/USD with GST input-credit context for Indian buyers.
 
 - [AWS SageMaker](https://aws.amazon.com/sagemaker/) - A comprehensive platform for building, training, and deploying machine learning models on AWS.
 - [Google AI Platform](https://cloud.google.com/ai-platform) - Google Cloud’s integrated environment for AI development and deployment.
