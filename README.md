@@ -84,6 +84,7 @@
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - A suite of tools for data science, machine learning, and AI model development.
 - [Paperspace Gradient](https://gradient.paperspace.com/) - A cloud platform for developing, training, and deploying machine learning models.
 - [KubeStellar Console](https://github.com/kubestellar/console) - A CNCF Sandbox multi-cluster Kubernetes management dashboard for deploying and observing workloads across edge and cloud infrastructure.
+- [Lium (lium.io)](https://lium.io) - A GPU rental marketplace on Bittensor Subnet 51: per-second billing on NVIDIA pods (B300, B200, H200, H100, RTX PRO 6000, RTX 5090), driven from a CLI, Python SDK or REST API, with public price feeds.
 
 ## Learning Resources
 
