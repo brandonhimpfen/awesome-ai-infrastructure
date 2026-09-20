@@ -79,12 +79,12 @@
 ## Cloud Platforms
 
 - [AWS SageMaker](https://aws.amazon.com/sagemaker/) - A comprehensive platform for building, training, and deploying machine learning models on AWS.
-- [Google AI Platform](https://cloud.google.com/ai-platform) - Google Cloud’s integrated environment for AI development and deployment.
 - [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) - A cloud-based platform for training, deploying, and managing machine learning models.
+- [Google AI Platform](https://cloud.google.com/ai-platform) - Google Cloud’s integrated environment for AI development and deployment.
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - A suite of tools for data science, machine learning, and AI model development.
-- [Paperspace Gradient](https://gradient.paperspace.com/) - A cloud platform for developing, training, and deploying machine learning models.
 - [KubeStellar Console](https://github.com/kubestellar/console) - A CNCF Sandbox multi-cluster Kubernetes management dashboard for deploying and observing workloads across edge and cloud infrastructure.
-- [Lium (lium.io)](https://lium.io) - A GPU rental marketplace on Bittensor Subnet 51: per-second billing on NVIDIA pods (B300, B200, H200, H100, RTX PRO 6000, RTX 5090), driven from a CLI, Python SDK or REST API, with public price feeds.
+- [Lium (lium.io)](https://lium.io) - Decentralized GPU compute marketplace on Bittensor Subnet 51 for AI and machine learning workloads.
+- [Paperspace Gradient](https://gradient.paperspace.com/) - A cloud platform for developing, training, and deploying machine learning models.
 
 ## Learning Resources
 
