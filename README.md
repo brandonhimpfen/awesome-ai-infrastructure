@@ -51,6 +51,7 @@
 - [ZenML](https://zenml.io/) - An extensible MLOps framework for creating portable, production-ready machine learning pipelines.
 - [Airflow](https://airflow.apache.org/) - A platform for orchestrating complex workflows, commonly used in machine learning pipelines.
 - [Metaflow](https://metaflow.org/) - A human-centric framework for building and managing real-life data science projects, developed by Netflix.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records an AI agent run at the process and socket boundary and replays it offline, so a run that used a model is reproducible without calling one.
 
 ## Data Management
 
