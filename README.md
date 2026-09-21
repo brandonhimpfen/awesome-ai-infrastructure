@@ -31,6 +31,7 @@
 - [Ray](https://www.ray.io/) - A framework for building scalable distributed applications, including distributed AI and reinforcement learning.
 - [PyTorch Distributed](https://pytorch.org/tutorials/intermediate/ddp_tutorial.html) - Tools and libraries for distributed training in PyTorch.
 - [DeepSpeed](https://www.deepspeed.ai/) - A deep learning optimization library that makes distributed training easy and efficient.
+- [Halo](https://github.com/whitecircle/halo) - Distributed pre- and post-training for native Hugging Face language and multimodal models, with FSDP2, expert, context, and tensor parallelism.
 - [MPI for Machine Learning](https://www.mpich.org/) - Using the Message Passing Interface (MPI) standard for distributed machine learning.
 
 ## Model Serving and Deployment
