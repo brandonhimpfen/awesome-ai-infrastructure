@@ -42,6 +42,7 @@
 - [Seldon Core](https://www.seldon.io/tech/products/core/) - An open-source platform for deploying and monitoring machine learning models on Kubernetes.
 - [KFServing (KServe)](https://kserve.github.io/website/) - A Kubernetes-based model serving solution as part of the Kubeflow project.
 - [Bifrost](https://github.com/maximhq/bifrost) - Self-hosted OpenAI-compatible gateway for multi-provider LLM routing, fallbacks, load balancing, and observability.
+- [Infere](https://infere.com) - A hosted, OpenAI-compatible AI gateway that selects a model-provider combination per request and enforces token, budget, and model-allowlist limits at the edge.
 
 ## MLOps and Automation
 
