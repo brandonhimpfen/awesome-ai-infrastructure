@@ -85,6 +85,7 @@
 - [KubeStellar Console](https://github.com/kubestellar/console) - A CNCF Sandbox multi-cluster Kubernetes management dashboard for deploying and observing workloads across edge and cloud infrastructure.
 - [Lium (lium.io)](https://lium.io) - Decentralized GPU compute marketplace on Bittensor Subnet 51 for AI and machine learning workloads.
 - [Paperspace Gradient](https://gradient.paperspace.com/) - A cloud platform for developing, training, and deploying machine learning models.
+- [AI Buildout](https://aibuildout.net/) — Real-time company news monitor by AlphAI. Track company news, explore Story context, and open original sources in a free, customizable news desk.
 
 ## Learning Resources
 
