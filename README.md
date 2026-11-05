@@ -85,6 +85,7 @@
 - [KubeStellar Console](https://github.com/kubestellar/console) - A CNCF Sandbox multi-cluster Kubernetes management dashboard for deploying and observing workloads across edge and cloud infrastructure.
 - [Lium (lium.io)](https://lium.io) - Decentralized GPU compute marketplace on Bittensor Subnet 51 for AI and machine learning workloads.
 - [Paperspace Gradient](https://gradient.paperspace.com/) - A cloud platform for developing, training, and deploying machine learning models.
+- [QIT](https://qit.energy/) - GPU Model API plus serverless/reserved GPUs and liquid-cooled GPU containers for AI inference and training.
 
 ## Learning Resources
 
