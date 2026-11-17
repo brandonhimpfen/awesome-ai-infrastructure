@@ -84,6 +84,7 @@
 - [IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) - A suite of tools for data science, machine learning, and AI model development.
 - [KubeStellar Console](https://github.com/kubestellar/console) - A CNCF Sandbox multi-cluster Kubernetes management dashboard for deploying and observing workloads across edge and cloud infrastructure.
 - [Lium (lium.io)](https://lium.io) - Decentralized GPU compute marketplace on Bittensor Subnet 51 for AI and machine learning workloads.
+- [Off Grid AI Boost](https://getoffgridai.co/boost/) - A private API for open-weight models like Qwen 3.8 and DeepSeek V4.1 Flash, served on its own GPUs behind one OpenAI-compatible key.
 - [Paperspace Gradient](https://gradient.paperspace.com/) - A cloud platform for developing, training, and deploying machine learning models.
 
 ## Learning Resources
